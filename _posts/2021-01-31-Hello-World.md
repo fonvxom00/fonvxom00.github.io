@@ -8,7 +8,7 @@ title: Hello World
 
 This is GitHub pages.
 
-'''java
+```java
 String str = "Hellow World";
 System.out.println(str);
-'''
+```
